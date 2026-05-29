@@ -1,1 +1,1 @@
-Compilation of C programs that I made
+Compilation of mini programs in C that I made
